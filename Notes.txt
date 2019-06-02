@@ -1,0 +1,10 @@
+Notes:
+
+1- Create Angular app:
+	a- install Angular CLI glocally by "npm install -g @angular/cli@6.0.8"
+	b- in the Dating-App folder create app by "ng new <name of app>"
+	
+2- 	Start Angular app:
+	a- Inside the angular app folder in powershell, run "ng serve"
+	
+** WebPack is a bundler, setting is in angular.json. in here we say the main.js starts as the entry point of javascript file .
